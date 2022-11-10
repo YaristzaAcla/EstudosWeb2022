@@ -1,4 +1,4 @@
-# Repositório de códigos da Disciplina de Programação Web II e Projeto de Software II - IFCE
+# Clone do Repositorio da disciplina de Web II para estudos
 
 Este repositório é destinado a armazenar as práticas realizadas na sala de aula das turmas de programação WEB II e Projeto de Software II - IFCE campus Iguatu 
 
